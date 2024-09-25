@@ -1,6 +1,6 @@
 # SendScriptSPFCWhatsApp  
 
-Código para enviar o HINO inteiro de Sâo Paulo Futebol Clube - SPFC para seus amigos ou grupos do WhatsApp.
+Código para enviar o HINO inteiro do São Paulo Futebol Clube - SPFC para seus amigos ou grupos do WhatsApp.
 
 ## Utilização
 
