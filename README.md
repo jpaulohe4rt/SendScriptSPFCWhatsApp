@@ -1,6 +1,6 @@
-# SendScriptWhatsApp V2 
+# SendScriptSPFCWhatsApp  
 
-Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
+Código para enviar o HINO inteiro de SPFC para seus amigos ou grupos do WhatsApp.
 
 ## Utilização
 
